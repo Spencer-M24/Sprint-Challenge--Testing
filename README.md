@@ -3,7 +3,7 @@
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored Testing. During this Sprint, you studied Introduction to Automated Testing, Testing React Applications & Testing Web APIs. In your challenge this week, you will demonstrate proficiency by creating an application that follows the TDD pattern to create a simple Web API using Node.js and Express.
 
 ## Instructions
-
+   
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
 This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
@@ -25,8 +25,22 @@ In this challenge use `Test Driven Development` to build a RESTful API using Nod
 Demonstrate your understanding of this week's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 1. In Jest, what are the differences between `describe()` and `it()` globals, and what are good uses for them?
+The Describe is used to isolate the tests and it is used for specify single tests
+
+
+
+
 1. What is the point of `Test Driven Development`? What do you think about this approach?
+
+
+The Test Driven Development is very important it allows you to create test and make sure everything is working and from that information you can tweak refactor and using Test driven development like Jest Mocha Or Jasmine helps saves alot of time and is great for any team.
+
+
+
 1. Mention three types of automated tests.
+
+Unit Test Snap Shop and Intergration Test
+
 
 ## Project Set Up
 
